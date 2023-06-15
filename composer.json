@@ -1,17 +1,21 @@
 {
-    "name": "leobe/sae2-01",
-    "description": "Développement d'une application",
+    "name": "nathan-mrx/siphamily",
+    "description": "Développement du site web siphamily.com",
     "type": "project",
-    "license": "Copyleft",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Leobe\\Sae201\\": "src/"
+            "": "src/"
         }
     },
     "authors": [
         {
-            "name": "Léo Bernard",
-            "email": "leo.bernard@etudiant.univ-reims.fr"
+            "name": "Nathan Merieux",
+            "email": "nathan.merieux@siphamily.com"
+        },
+        {
+            "name": "Oscar Monney",
+            "email": "oscar.monney@siphamily.com"
         }
     ],
     "require": {}
